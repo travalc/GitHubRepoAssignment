@@ -1,0 +1,8 @@
+Travis Alcantara
+
+1. Created a Github repo and made a local directory
+2. Initialized the local repository with git init.
+3. Made a readme.md file in local repository.
+4. Checked git status, staged files with git add and committed with git commit.
+5. Added Github repo by entering git remote add origin
+6 Pushed local repo to github repo with git push.
